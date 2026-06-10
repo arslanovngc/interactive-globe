@@ -2,6 +2,10 @@
 
 Next.js hero prototype with an interactive 3D world globe. Users can drag the globe, select a country, and see the selected country reflected in a tooltip and static card.
 
+## Preview
+
+https://interactive-globe-map.vercel.app
+
 ## Requirements
 
 - Node.js 20+
@@ -201,4 +205,3 @@ Before pushing:
 pnpm check-types
 pnpm build
 ```
-
